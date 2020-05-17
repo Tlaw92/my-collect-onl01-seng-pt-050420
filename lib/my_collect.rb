@@ -1,4 +1,4 @@
-my_collect (empty_array) do 
-  counter += 1 
+my_collect(empty_array) 
+  
 end  
 
